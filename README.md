@@ -36,7 +36,7 @@ Na era das IAs generativas, acredito que vencer significa estar bem informado, s
 ### Processo de criação
 
 ## 📒 Descrição
-Um simples artigo sobre o tema IA's generativas
+Um simples artigo sobre IA's generativas
 
 ## 🤖 Tecnologias Utilizadas
 - Chat GPT (textos)
