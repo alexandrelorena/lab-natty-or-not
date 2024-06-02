@@ -1,51 +1,55 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
+Olá pessoal! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO nos convida a explorar o mundo das IAs Generativas e suas tendências tecnológicas incríveis!
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+#
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
+## 🎯 Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
-### Objetivos
+![jornalista4](https://github.com/alexandrelorena/lab-natty-or-not/assets/138406816/ebf8467b-193a-497d-a037-a1456a535ab0)
 
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
 
-### Template
+Na era das IAs generativas, como o ChatGPT, distinguir entre o que é natural e o que é "fake natty" (falso natural) tornou-se um desafio crescente para mim. 
+As IAs generativas são capazes de criar textos, imagens, músicas e até vídeos que parecem ter sido feitos por humanos. Essas tecnologias são extremamente úteis em diversas áreas, 
+como assistência ao cliente, criação de conteúdo e arte digital. No entanto, elas também levantam preocupações sobre autenticidade e ética.
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+![montanhas4](https://github.com/alexandrelorena/lab-natty-or-not/assets/138406816/ea2a37c9-ec4f-474c-a5a4-d1eef318fc73)
+
+
+Por exemplo, às vezes leio um texto gerado por IA e fico impressionado com o quão convincente ele é, a ponto de ser difícil saber se foi escrito por uma pessoa ou por uma máquina. Imagino ler um artigo de notícias e não ter certeza se foi um jornalista humano ou um algoritmo que o escreveu. Ou ver uma foto de uma pessoa que nunca existiu, criada por uma IA.
+
+Para vencer nesse cenário, percebi que é crucial desenvolver habilidades críticas e usar ferramentas que ajudem a verificar a autenticidade. Algumas dicas que sigo incluem:
+
+- Verificar fontes: Sempre checo se a informação vem de uma fonte confiável.
+- Usar ferramentas de detecção: Uso programas que podem ajudar a identificar textos ou imagens gerados por IA.
+- Educação digital: Procuro aprender como as IAs funcionam e suas capacidades para entender melhor onde e como elas são usadas.
+
+
+![pessoa4](https://github.com/alexandrelorena/lab-natty-or-not/assets/138406816/e6c70366-99d7-497e-a6ea-ab8169ca69a7)
+
+  
+Por exemplo, sei que empresas como a OpenAI trabalham para garantir que suas tecnologias sejam usadas de forma ética, enquanto outras desenvolvem ferramentas para identificar deepfakes, que são vídeos manipulados por IA para parecerem reais.
+
+Na era das IAs generativas, acredito que vencer significa estar bem informado, ser crítico e utilizar a tecnologia de forma ética e responsável.  💪🤓
+
+### Processo de criação
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Um simples artigo sobre o tema IA's generativas
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- Chat GPT (textos)
+- CoPilot (imagens)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+```markdown
+- PROMPT >>
+Atue como um especialista em IA's generativas e fale sobre o tema:
+"Natural ou Fake Natty? Como Vencer na Era das IAs Generativas".
 
-## 🚀 Resultados
-Apresente os resultados do seu projeto
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+{REGRAS}
+>Texto no máximo 20 linhas
+>Linguagem simples, para que mesmo quem não é da área possa entender
 ```
 
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
